@@ -65,6 +65,3 @@ Breast_Cancer_BigData_ML_Project_4Parts_Final.ipynb
 
 ---
 
-# Author
-
-Abdo Khater
